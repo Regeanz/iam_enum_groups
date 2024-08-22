@@ -6,7 +6,7 @@ It obviously needs the correct permissions to work correctly, so beware of which
 ### Syntax:
 
 ```
-./iam_enum_groups <profile_name>
+./iam_groups <profile_name>
 ```
 
 ![image](https://github.com/user-attachments/assets/63d2292e-e938-4d10-9387-dd5273989c55)
